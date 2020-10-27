@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ShapeAppearance.CustomTheme.SmallComponent" parent="ShapeAppearance.MaterialComponents.SmallComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">20dp</item>
+    </style>
+
+    <style name="ShapeAppearance.CustomTheme.MediumComponent" parent="ShapeAppearance.MaterialComponents.MediumComponent">
+
+    </style>
+
+    <style name="ShapeAppearance.CustomTheme.LargeComponent" parent="ShapeAppearance.MaterialComponents.LargeComponent">
+
+    </style>
+</resources>
